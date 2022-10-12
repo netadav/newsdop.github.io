@@ -1,0 +1,1 @@
+<div class='tn-atom tn-atom__html'> <div style='transform-origin: 0 0; transform: scale(0.5)'><iframe src="https://naje-s.ru" width="1440px" height="900px" frameborder="0"></iframe></div> </div> </div>
